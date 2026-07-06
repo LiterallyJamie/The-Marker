@@ -1,7 +1,7 @@
 import random
 player = random.randint(2,11) + random.randint(2,11)
 dealer = random.randint(2,11) + random.randint(2,11)
-print("HELLO FRIEND")
+print("HELLO your not freind")
 print("Your Total is",player)
 while True:
     choice = input("Hit or stand?").lower()
